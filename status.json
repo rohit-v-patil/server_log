@@ -59,7 +59,7 @@
       "current_event_id": "188",
       "current_problem_id": "95",
       "last_problem_id": "94",
-      "plugin_output": "(Host check timed out after 30.02 seconds)",
+      "plugin_output": "(changed Host check timed out after 30.02 seconds)",
       "long_plugin_output": "",
       "performance_data": "",
       "last_check": "1578846217",
