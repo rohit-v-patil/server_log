@@ -53,7 +53,7 @@
       "check_execution_time": "30.018",
       "check_latency": "0.000",
       "check_type": "0",
-      "current_state": "1",
+      "current_state": "0",
       "last_hard_state": "1",
       "last_event_id": "187",
       "current_event_id": "188",
